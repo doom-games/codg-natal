@@ -54,13 +54,10 @@ var rodadas = [
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
         ]
     },
     {
-        numero: 5,
+        numero: 5, // Ponto é definido pelo último dígito hora:minuto da resposta. Exemplo: 10:18 -> 8 pontos
         games: [
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
@@ -71,6 +68,20 @@ var rodadas = [
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
+        ]
+    },
+    {
+        numero: 6,
+        games: [
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
         ]
     },
 ];
