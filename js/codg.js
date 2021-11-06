@@ -1,8 +1,8 @@
 var players = [
+    { id: 'camilo', nome: 'Camilão', foto: 'camilo.jpg', pontos: 0 },
     { id: 'ambrosio', nome: 'Brosnildo64', foto: 'ambrosio.jpg', pontos: 0 },
     { id: 'dida', nome: 'Casco_Dida', foto: 'dida.jpg', pontos: 0 },
     { id: 'igor', nome: 'Igor Oliveira', foto: 'igor.jpg', pontos: 0 },
-    //{ id: 'camilo', nome: 'Camilo', foto: 'camilo.jpg', pontos: 0 },
     //{ id: 'hrone', nome: 'Hrone', foto: 'hrone.jpg', pontos: 0 },
     //{ id: 'junior', nome: 'Jux', foto: 'junior.jpg', pontos: 0 },
     //{ id: 'dorinha', nome: 'Dorinha', foto: 'dorinha.jpg', pontos: 0 }
