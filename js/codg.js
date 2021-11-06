@@ -1,11 +1,11 @@
 var players = [
-    { id: 'camilo', nome: 'Camilo', foto: 'camilo.jpg', pontos: 0 },
-    { id: 'hrone', nome: 'Hrone', foto: 'hrone.jpg', pontos: 0 },
-    { id: 'dida', nome: 'Dida', foto: 'dida.jpg', pontos: 0 },
-    { id: 'ambrosio', nome: 'Broznildo', foto: 'ambrosio.jpg', pontos: 0 },
-    { id: 'igor', nome: 'Igor', foto: 'igor.jpg', pontos: 0 },
-    { id: 'junior', nome: 'Jux', foto: 'junior.jpg', pontos: 0 },
-    { id: 'dorinha', nome: 'Dorinha', foto: 'dorinha.jpg', pontos: 0 }
+    //{ id: 'camilo', nome: 'Camilo', foto: 'camilo.jpg', pontos: 0 },
+    //{ id: 'hrone', nome: 'Hrone', foto: 'hrone.jpg', pontos: 0 },
+    //{ id: 'dida', nome: 'Dida', foto: 'dida.jpg', pontos: 0 },
+    //{ id: 'ambrosio', nome: 'Broznildo', foto: 'ambrosio.jpg', pontos: 0 },
+    { id: 'igor', nome: 'Igor Oliveira', foto: 'igor.jpg', pontos: 0 },
+    //{ id: 'junior', nome: 'Jux', foto: 'junior.jpg', pontos: 0 },
+    //{ id: 'dorinha', nome: 'Dorinha', foto: 'dorinha.jpg', pontos: 0 }
 ];
 
 var rodadas = [
