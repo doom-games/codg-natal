@@ -1,4 +1,5 @@
 var players = [
+    { id: 'marquinhos', nome: 'Marquinhos', foto: 'marquinhos.jpg', pontos: 0 },
     { id: 'camilo', nome: 'Camilão', foto: 'camilo.jpg', pontos: 0 },
     { id: 'ambrosio', nome: 'Brosnildo64', foto: 'ambrosio.jpg', pontos: 0 },
     { id: 'dida', nome: 'Casco_Dida', foto: 'dida.jpg', pontos: 0 },
