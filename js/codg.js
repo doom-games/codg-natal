@@ -17,7 +17,7 @@ var rodadas = [
             { nome: 'Banjo Kazooie', foto: 'banjo-kazooie.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: 'Destroy All Humans!', foto: 'destroy-all-humans.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
             { nome: 'GTA V: Gran Thief Auto', foto: 'gta-v.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
+            { nome: 'Final Fight', foto: 'final-fight.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
