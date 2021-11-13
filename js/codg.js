@@ -16,7 +16,7 @@ var rodadas = [
             { nome: 'Duke Nukem', foto: 'duke-nukem.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
             { nome: 'Banjo Kazooie', foto: 'banjo-kazooie.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: 'Destroy All Humans!', foto: 'destroy-all-humans.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
+            { nome: 'GTA V: Gran Thief Auto', foto: 'gta-v.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
