@@ -21,7 +21,7 @@ var rodadas = [
             { nome: 'Saint\'s Row', foto: 'saints-row.jpg', pontoAdicionar: 10, playerAdicionar: 'dida' },
             { nome: 'Animal Crossing', foto: 'animal-crossing.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: 'Just Cause', foto: 'just-cause.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
+            { nome: 'Death Stranding', foto: 'death-stranding.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' }
         ]
     },
     {
