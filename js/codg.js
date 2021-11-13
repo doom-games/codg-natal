@@ -19,7 +19,7 @@ var rodadas = [
             { nome: 'GTA V: Gran Thief Auto', foto: 'gta-v.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
             { nome: 'Final Fight', foto: 'final-fight.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
             { nome: 'Saint\'s Row', foto: 'saints-row.jpg', pontoAdicionar: 10, playerAdicionar: 'dida' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
+            { nome: 'Animal Crossing', foto: 'animal-crossing.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
         ]
