@@ -13,7 +13,7 @@ var rodadas = [
     {
         numero: 1,
         games: [
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
+            { nome: 'Duke Nukem', foto: 'duke-nukem.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 15, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
