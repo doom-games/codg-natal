@@ -15,7 +15,7 @@ var rodadas = [
         games: [
             { nome: 'Duke Nukem', foto: 'duke-nukem.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
             { nome: 'Banjo Kazooie', foto: 'banjo-kazooie.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 15, playerAdicionar: '' },
+            { nome: 'Destroy All Humans!', foto: 'destroy-all-humans.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
