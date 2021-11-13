@@ -88,7 +88,8 @@ var rodadas = [
 ];
 
 let htmlRodadas = '';
-rodadas.sort(compararRodada).forEach(function (rodada) {
+//rodadas.sort(compararRodada).forEach(function (rodada) {
+rodadas.forEach(function (rodada) {
     htmlRodadas += `
         <div class="trending__product">
         <div class="row">
