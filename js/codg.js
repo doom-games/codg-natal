@@ -11,6 +11,17 @@ var players = [
 
 var rodadas = [
     {
+        numero: 2,
+        games: [
+            { nome: 'Crysis 3', foto: 'crysis.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
+        ]
+    },
+    {
         numero: 1,
         games: [
             { nome: 'Duke Nukem', foto: 'duke-nukem.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
@@ -22,17 +33,6 @@ var rodadas = [
             { nome: 'Animal Crossing', foto: 'animal-crossing.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: 'Just Cause', foto: 'just-cause.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
             { nome: 'Death Stranding', foto: 'death-stranding.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' }
-        ]
-    },
-    {
-        numero: 2,
-        games: [
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
         ]
     },
     {
