@@ -14,7 +14,7 @@ var rodadas = [
         numero: 2,
         games: [
             { nome: 'Crysis 3', foto: 'crysis.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: 'God of War: Ragnarok', foto: 'god-of-war.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: 'dida', playerRemover: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
@@ -106,7 +106,7 @@ rodadas.forEach(function (rodada) {
             players.find(element => element.id == game.playerAdicionar).pontos = players.find(element => element.id == game.playerAdicionar).pontos + game.pontoAdicionar;
         }
         if (game.playerRemover) {
-            players.find(element => element.id == game.playerRemover).pontos = players.find(element => element.id == game.playerRemover).pontos + game.pontoRemover
+            players.find(element => element.id == game.playerRemover).pontos = players.find(element => element.id == game.playerRemover).pontos - game.pontoRemover
         }
         htmlRodadas += `
                             <div class="col-lg-4 col-md-6 col-sm-6">
