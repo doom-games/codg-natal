@@ -16,7 +16,7 @@ var rodadas = [
             { nome: 'Crysis 3', foto: 'crysis.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
             { nome: 'God of War: Ragnarok', foto: 'god-of-war.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: 'dida', playerRemover: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
+            { nome: 'Metroid Dread', foto: 'metroid-dread.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
         ]
