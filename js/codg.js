@@ -18,7 +18,7 @@ var rodadas = [
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
             { nome: 'Metroid Dread', foto: 'metroid-dread.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: 'Battlefield 2042', foto: 'battlefield-2042.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'dida' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
+            { nome: 'Resident Evil 3', foto: 'resident-evil-3.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
         ]
     },
     {
