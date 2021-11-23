@@ -14,7 +14,7 @@ var rodadas = [
         numero: 3,
         games: [
             { nome: 'Fallout: New Vegas', foto: 'fallout-new-vegas.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 10, playerAdicionar: '' },
+            { nome: 'Dishonored', foto: 'dishonored.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 15, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 20, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 25, playerAdicionar: '' },
