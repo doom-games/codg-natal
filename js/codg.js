@@ -16,7 +16,7 @@ var rodadas = [
             { nome: 'Fallout: New Vegas', foto: 'fallout-new-vegas.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
             { nome: 'Dishonored', foto: 'dishonored.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
             { nome: 'Half Life', foto: 'half-life.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 20, playerAdicionar: '' },
+            { nome: 'Duck Hunt', foto: 'duck-hunt.jpg', pontoAdicionar: 20, playerAdicionar: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 25, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 30, playerAdicionar: '' },
         ]
