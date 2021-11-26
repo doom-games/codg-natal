@@ -17,7 +17,7 @@ var rodadas = [
             { nome: 'Dishonored', foto: 'dishonored.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
             { nome: 'Half Life', foto: 'half-life.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
             { nome: 'Duck Hunt', foto: 'duck-hunt.jpg', pontoAdicionar: 20, playerAdicionar: 'camilo' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 25, playerAdicionar: '' },
+            { nome: 'Genshin Impact', foto: 'genshin-impact.jpg', pontoAdicionar: 25, playerAdicionar: 'ambrosio' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 30, playerAdicionar: '' },
         ]
     },
