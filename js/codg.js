@@ -18,7 +18,7 @@ var rodadas = [
             { nome: 'Half Life', foto: 'half-life.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
             { nome: 'Duck Hunt', foto: 'duck-hunt.jpg', pontoAdicionar: 20, playerAdicionar: 'camilo' },
             { nome: 'Genshin Impact', foto: 'genshin-impact.jpg', pontoAdicionar: 25, playerAdicionar: 'ambrosio' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 30, playerAdicionar: '' },
+            { nome: 'Lucius', foto: 'lucius.jpg', pontoAdicionar: 30, playerAdicionar: 'ambrosio' },
         ]
     },
     {
