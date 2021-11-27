@@ -11,6 +11,26 @@ var players = [
 
 var rodadas = [
     {
+        numero: 4,
+        games: [
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+        ]
+    },
+    {
         numero: 3,
         games: [
             { nome: 'Fallout: New Vegas', foto: 'fallout-new-vegas.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
@@ -44,17 +64,6 @@ var rodadas = [
             { nome: 'Animal Crossing', foto: 'animal-crossing.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: 'Just Cause', foto: 'just-cause.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
             { nome: 'Death Stranding', foto: 'death-stranding.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' }
-        ]
-    },
-    {
-        numero: 4,
-        games: [
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
         ]
     },
     {
