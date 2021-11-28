@@ -27,7 +27,7 @@ var rodadas = [
             { nome: 'Ecco - the dolphin', foto: 'ecco-the-dolphin.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: 'Golden Axe', foto: 'golden-axe.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'ambrosio' },
             { nome: 'California Games', foto: 'california-games.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'camilo' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: 'Bust a Groove', foto: 'bust-a-groove.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'camilo' },
         ]
     },
     {
