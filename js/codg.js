@@ -22,7 +22,7 @@ var rodadas = [
             { nome: 'Yoshi\'s Island', foto: 'yoshis-island.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'dida' },
             { nome: 'TJ Combo', foto: 'tj-combo.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'ambrosio' },
             { nome: 'Knuckles', foto: 'knuckles.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'ambrosio' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: 'Contra', foto: 'contra.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
