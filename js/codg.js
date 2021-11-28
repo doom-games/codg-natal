@@ -17,7 +17,7 @@ var rodadas = [
             { nome: 'Suspects: Mansão Mistério', foto: 'suspects.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'camilo' },
             { nome: 'Star Fox', foto: 'star-fox.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'ambrosio' },
             { nome: 'Tekken 3', foto: 'tekken-3.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'ambrosio' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: 'Alex Kidd in Miracle World', foto: 'alex-kidd.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: 'ambrosio' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
