@@ -15,7 +15,7 @@ var rodadas = [
         games: [
             { nome: 'Rayman', foto: 'rayman.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
             { nome: 'Dead Rising', foto: 'dead-rising.jpg', pontoAdicionar: 1, playerAdicionar: 'marquinhos' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
+            { nome: 'Bioshock Infinite', foto: 'bioshock.jpg', pontoAdicionar: 9, playerAdicionar: 'ambrosio' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
