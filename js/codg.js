@@ -19,7 +19,7 @@ var rodadas = [
             { nome: 'Dante\'s Inferno', foto: 'dante-inferno.jpg', pontoAdicionar: 1, playerAdicionar: 'dida' },
             { nome: 'Darksiders 2', foto: 'darksiders.jpg', pontoAdicionar: 6, playerAdicionar: 'camilo' },
             { nome: 'Bayonetta', foto: 'bayonetta.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
+            { nome: 'Deus Ex: Human Revolution', foto: 'deus-ex.jpg', pontoAdicionar: 2, playerAdicionar: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
         ]
