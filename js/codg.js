@@ -17,7 +17,7 @@ var rodadas = [
             { nome: 'Dead Rising', foto: 'dead-rising.jpg', pontoAdicionar: 1, playerAdicionar: 'marquinhos' },
             { nome: 'Bioshock Infinite', foto: 'bioshock.jpg', pontoAdicionar: 9, playerAdicionar: 'ambrosio' },
             { nome: 'Dante\'s Inferno', foto: 'dante-inferno.jpg', pontoAdicionar: 1, playerAdicionar: 'dida' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
+            { nome: 'Darksiders 2', foto: 'darksiders.jpg', pontoAdicionar: 6, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
