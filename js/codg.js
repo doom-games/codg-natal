@@ -18,7 +18,7 @@ var rodadas = [
             { nome: 'Bioshock Infinite', foto: 'bioshock.jpg', pontoAdicionar: 9, playerAdicionar: 'ambrosio' },
             { nome: 'Dante\'s Inferno', foto: 'dante-inferno.jpg', pontoAdicionar: 1, playerAdicionar: 'dida' },
             { nome: 'Darksiders 2', foto: 'darksiders.jpg', pontoAdicionar: 6, playerAdicionar: 'camilo' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
+            { nome: 'Bayonetta', foto: 'bayonetta.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
