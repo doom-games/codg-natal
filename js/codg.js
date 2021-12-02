@@ -100,6 +100,7 @@ var rodadas = [
             { nome: 'Ratchet and Clank', foto: 'ratchet-and-clank.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
             { nome: 'The Lion King', foto: 'the-lion-king.jpg', pontoAdicionar: 5, playerAdicionar: 'igor' },
             { nome: 'T-Rex Game', foto: 't-rex.jpg', pontoAdicionar: 5, playerAdicionar: 'igor' },
+            { nome: 'The Legend of Zelda: Majora\'s Mask', foto: 'majoras-mask.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
         ]
     },
 ];
