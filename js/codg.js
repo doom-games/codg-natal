@@ -102,6 +102,7 @@ var rodadas = [
             { nome: 'T-Rex Game', foto: 't-rex.jpg', pontoAdicionar: 5, playerAdicionar: 'igor' },
             { nome: 'The Legend of Zelda: Majora\'s Mask', foto: 'majoras-mask.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
             { nome: 'Horizon Zero Dawn', foto: 'horizon-zero-dawn.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
+            { nome: 'The Legend of Zelda: Link\'s Awakening', foto: 'zelda-dx.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
         ]
     },
 ];
