@@ -104,6 +104,7 @@ var rodadas = [
             { nome: 'Horizon Zero Dawn', foto: 'horizon-zero-dawn.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
             { nome: 'The Legend of Zelda: Link\'s Awakening', foto: 'zelda-dx.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
             { nome: 'Avengers', foto: 'avengers.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
+            { nome: 'Castlevania', foto: 'castlevania.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
         ]
     },
 ];
