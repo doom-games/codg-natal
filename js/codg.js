@@ -21,7 +21,7 @@ var rodadas = [
             { nome: 'Bayonetta', foto: 'bayonetta.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
             { nome: 'Deus Ex: Human Revolution', foto: 'deus-ex.jpg', pontoAdicionar: 2, playerAdicionar: 'camilo' },
             { nome: 'Gears of War', foto: 'gears-of-war.jpg', pontoAdicionar: 7, playerAdicionar: 'igor' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 0, playerAdicionar: '' },
+            { nome: 'Red Dead Redemption', foto: 'red-dead-redemption.jpg', pontoAdicionar: 6, playerAdicionar: 'hrone' },
         ]
     },
     {
