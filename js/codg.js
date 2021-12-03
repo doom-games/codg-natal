@@ -111,6 +111,7 @@ var rodadas = [
             { nome: 'Aliens Invasion', foto: 'aliens-invasion.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
             { nome: 'Street Fighter 2 - Turbo', foto: 'street-turbo.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
             { nome: 'Spider-man', foto: 'spider-man.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
+            { nome: 'Mortal Kombat', foto: 'mk.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
         ]
     },
 ];
