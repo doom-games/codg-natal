@@ -105,6 +105,8 @@ var rodadas = [
             { nome: 'The Legend of Zelda: Link\'s Awakening', foto: 'zelda-dx.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
             { nome: 'Avengers', foto: 'avengers.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
             { nome: 'Castlevania', foto: 'castlevania.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
+            { nome: 'Overlord', foto: 'overlord.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
+            { nome: 'Super Mario 64', foto: 'mario-64.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
         ]
     },
 ];
