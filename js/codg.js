@@ -108,6 +108,7 @@ var rodadas = [
             { nome: 'Overlord', foto: 'overlord.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
             { nome: 'Super Mario 64', foto: 'mario-64.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
             { nome: 'Need for Speed - Carbon', foto: 'need-carbon.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
+            { nome: 'Aliens Invasion', foto: 'aliens-invasion.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
         ]
     },
 ];
