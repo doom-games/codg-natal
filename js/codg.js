@@ -107,6 +107,7 @@ var rodadas = [
             { nome: 'Castlevania', foto: 'castlevania.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
             { nome: 'Overlord', foto: 'overlord.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
             { nome: 'Super Mario 64', foto: 'mario-64.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
+            { nome: 'Need for Speed - Carbon', foto: 'need-carbon.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
         ]
     },
 ];
