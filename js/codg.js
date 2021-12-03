@@ -14,7 +14,7 @@ var rodadas = [
         numero: 6,
         games: [
             { nome: 'The King of Fighters', foto: 'kof.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: 'Alan Wake', foto: 'alan-wake.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
@@ -109,7 +109,7 @@ var rodadas = [
             { nome: 'Super Mario 64', foto: 'mario-64.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
             { nome: 'Need for Speed - Carbon', foto: 'need-carbon.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
             { nome: 'Aliens Invasion', foto: 'aliens-invasion.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
-            { nome: 'Street Fighter 2 - Turbo', foto: 'x.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
+            { nome: 'Street Fighter 2 - Turbo', foto: 'street-turbo.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
         ]
     },
 ];
