@@ -115,6 +115,7 @@ var rodadas = [
             { nome: 'Dragon Ball Xenoverse', foto: 'dbx.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
             { nome: 'Rapid Racer', foto: 'rapid-racer.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
             { nome: 'Minecraft', foto: 'minecraft.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
+            { nome: 'Donkey Kong Country 3', foto: 'dk3.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
         ]
     },
 ];
