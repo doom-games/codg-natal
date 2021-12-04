@@ -16,7 +16,7 @@ var rodadas = [
             { nome: 'The King of Fighters', foto: 'kof.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
             { nome: 'Alan Wake', foto: 'alan-wake.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
             { nome: 'Street Fighter', foto: 'street-fighter.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: 'Final Fantasy X', foto: 'final-fantasy-x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'hrone', playerRemover: 'camilo' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
