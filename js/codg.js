@@ -20,8 +20,8 @@ var rodadas = [
             { nome: 'Devil May Cry', foto: 'devil-may-cry.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
             { nome: 'Dead Space', foto: 'dead-space.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
             { nome: 'Chrono Trigger', foto: 'chrono-trigger.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'camilo' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: 'Beyond Good and Evil', foto: 'beyond-good-and-evil.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'camilo' },
+            { nome: 'Cyberpunk 2077', foto: 'cyberpunk-2077.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
         ]
     },
     {
@@ -120,6 +120,7 @@ var rodadas = [
             { nome: 'The legend of Zelda : breath of the wild', foto: 'zelda-botw.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
             { nome: 'Quake 3 Arena', foto: 'quake3.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
             { nome: 'Dragon Age Inquisition', foto: 'dai.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
+            { nome: 'One Piece', foto: 'one-piece.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
         ]
     },
 ];
