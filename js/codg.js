@@ -118,6 +118,7 @@ var rodadas = [
             { nome: 'Donkey Kong Country 3', foto: 'dk3.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
             { nome: 'The walking dead', foto: 'twd.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
             { nome: 'The legend of Zelda : breath of the wild', foto: 'zelda-botw.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
+            { nome: 'Quake 3 Arena', foto: 'quake3.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
         ]
     },
 ];
