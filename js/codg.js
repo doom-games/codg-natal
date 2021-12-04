@@ -18,7 +18,7 @@ var rodadas = [
             { nome: 'Street Fighter', foto: 'street-fighter.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
             { nome: 'Final Fantasy X', foto: 'final-fantasy-x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'hrone', playerRemover: 'camilo' },
             { nome: 'Devil May Cry', foto: 'devil-may-cry.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-            { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
+            { nome: 'Dead Space', foto: 'dead-space.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
             { nome: '------------------', foto: 'x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: '', playerRemover: '' },
