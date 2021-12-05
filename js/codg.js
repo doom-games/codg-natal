@@ -121,6 +121,7 @@ var rodadas = [
             { nome: 'Quake 3 Arena', foto: 'quake3.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
             { nome: 'Dragon Age Inquisition', foto: 'dai.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
             { nome: 'One Piece', foto: 'one-piece.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
+            { nome: 'Max Payne 3', foto: 'max-payne-3.jpg', pontoAdicionar: 5, playerAdicionar: 'dida' },
         ]
     },
 ];
