@@ -11,17 +11,39 @@ var players = [
 
 var rodadas = [
     {
-        numero: 5, // Ponto é definido pelo último dígito hora:minuto da resposta. Exemplo: 10:18 -> 8 pontos
+        numero: 1,
         games: [
-            { nome: 'Rayman', foto: 'rayman.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
-            { nome: 'Dead Rising', foto: 'dead-rising.jpg', pontoAdicionar: 1, playerAdicionar: 'marquinhos' },
-            { nome: 'Bioshock Infinite', foto: 'bioshock.jpg', pontoAdicionar: 9, playerAdicionar: 'ambrosio' },
-            { nome: 'Dante\'s Inferno', foto: 'dante-inferno.jpg', pontoAdicionar: 1, playerAdicionar: 'dida' },
-            { nome: 'Darksiders 2', foto: 'darksiders.jpg', pontoAdicionar: 6, playerAdicionar: 'camilo' },
-            { nome: 'Bayonetta', foto: 'bayonetta.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
-            { nome: 'Deus Ex: Human Revolution', foto: 'deus-ex.jpg', pontoAdicionar: 2, playerAdicionar: 'camilo' },
-            { nome: 'Gears of War', foto: 'gears-of-war.jpg', pontoAdicionar: 7, playerAdicionar: 'igor' },
-            { nome: 'Red Dead Redemption', foto: 'red-dead-redemption.jpg', pontoAdicionar: 6, playerAdicionar: 'hrone' },
+            { nome: 'Duke Nukem', foto: 'duke-nukem.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
+            { nome: 'Banjo Kazooie', foto: 'banjo-kazooie.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
+            { nome: 'Destroy All Humans!', foto: 'destroy-all-humans.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
+            { nome: 'GTA V: Gran Thief Auto', foto: 'gta-v.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
+            { nome: 'Final Fight', foto: 'final-fight.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
+            { nome: 'Saint\'s Row', foto: 'saints-row.jpg', pontoAdicionar: 10, playerAdicionar: 'dida' },
+            { nome: 'Animal Crossing', foto: 'animal-crossing.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
+            { nome: 'Just Cause', foto: 'just-cause.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
+            { nome: 'Death Stranding', foto: 'death-stranding.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' }
+        ]
+    },
+    {
+        numero: 2,
+        games: [
+            { nome: 'Crysis 3', foto: 'crysis.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
+            { nome: 'God of War: Ragnarok', foto: 'god-of-war.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: 'dida', playerRemover: 'camilo' },
+            { nome: 'Back 4 Blood', foto: 'back-4-blood.jpg', pontoAdicionar: 15, playerAdicionar: 'ambrosio' },
+            { nome: 'Metroid Dread', foto: 'metroid-dread.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
+            { nome: 'Battlefield 2042', foto: 'battlefield-2042.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'dida' },
+            { nome: 'Resident Evil 3', foto: 'resident-evil-3.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
+        ]
+    },
+    {
+        numero: 3,
+        games: [
+            { nome: 'Fallout: New Vegas', foto: 'fallout-new-vegas.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
+            { nome: 'Dishonored', foto: 'dishonored.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
+            { nome: 'Half Life', foto: 'half-life.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
+            { nome: 'Duck Hunt', foto: 'duck-hunt.jpg', pontoAdicionar: 20, playerAdicionar: 'camilo' },
+            { nome: 'Genshin Impact', foto: 'genshin-impact.jpg', pontoAdicionar: 25, playerAdicionar: 'ambrosio' },
+            { nome: 'Lucius', foto: 'lucius.jpg', pontoAdicionar: 30, playerAdicionar: 'ambrosio' },
         ]
     },
     {
@@ -45,39 +67,17 @@ var rodadas = [
         ]
     },
     {
-        numero: 3,
+        numero: 5, // Ponto é definido pelo último dígito hora:minuto da resposta. Exemplo: 10:18 -> 8 pontos
         games: [
-            { nome: 'Fallout: New Vegas', foto: 'fallout-new-vegas.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
-            { nome: 'Dishonored', foto: 'dishonored.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
-            { nome: 'Half Life', foto: 'half-life.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
-            { nome: 'Duck Hunt', foto: 'duck-hunt.jpg', pontoAdicionar: 20, playerAdicionar: 'camilo' },
-            { nome: 'Genshin Impact', foto: 'genshin-impact.jpg', pontoAdicionar: 25, playerAdicionar: 'ambrosio' },
-            { nome: 'Lucius', foto: 'lucius.jpg', pontoAdicionar: 30, playerAdicionar: 'ambrosio' },
-        ]
-    },
-    {
-        numero: 2,
-        games: [
-            { nome: 'Crysis 3', foto: 'crysis.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
-            { nome: 'God of War: Ragnarok', foto: 'god-of-war.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: 'dida', playerRemover: 'camilo' },
-            { nome: 'Back 4 Blood', foto: 'back-4-blood.jpg', pontoAdicionar: 15, playerAdicionar: 'ambrosio' },
-            { nome: 'Metroid Dread', foto: 'metroid-dread.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
-            { nome: 'Battlefield 2042', foto: 'battlefield-2042.jpg', pontoAdicionar: 10, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'dida' },
-            { nome: 'Resident Evil 3', foto: 'resident-evil-3.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
-        ]
-    },
-    {
-        numero: 1,
-        games: [
-            { nome: 'Duke Nukem', foto: 'duke-nukem.jpg', pontoAdicionar: 10, playerAdicionar: 'camilo' },
-            { nome: 'Banjo Kazooie', foto: 'banjo-kazooie.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
-            { nome: 'Destroy All Humans!', foto: 'destroy-all-humans.jpg', pontoAdicionar: 15, playerAdicionar: 'marquinhos' },
-            { nome: 'GTA V: Gran Thief Auto', foto: 'gta-v.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' },
-            { nome: 'Final Fight', foto: 'final-fight.jpg', pontoAdicionar: 5, playerAdicionar: 'hrone' },
-            { nome: 'Saint\'s Row', foto: 'saints-row.jpg', pontoAdicionar: 10, playerAdicionar: 'dida' },
-            { nome: 'Animal Crossing', foto: 'animal-crossing.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
-            { nome: 'Just Cause', foto: 'just-cause.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
-            { nome: 'Death Stranding', foto: 'death-stranding.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' }
+            { nome: 'Rayman', foto: 'rayman.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
+            { nome: 'Dead Rising', foto: 'dead-rising.jpg', pontoAdicionar: 1, playerAdicionar: 'marquinhos' },
+            { nome: 'Bioshock Infinite', foto: 'bioshock.jpg', pontoAdicionar: 9, playerAdicionar: 'ambrosio' },
+            { nome: 'Dante\'s Inferno', foto: 'dante-inferno.jpg', pontoAdicionar: 1, playerAdicionar: 'dida' },
+            { nome: 'Darksiders 2', foto: 'darksiders.jpg', pontoAdicionar: 6, playerAdicionar: 'camilo' },
+            { nome: 'Bayonetta', foto: 'bayonetta.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
+            { nome: 'Deus Ex: Human Revolution', foto: 'deus-ex.jpg', pontoAdicionar: 2, playerAdicionar: 'camilo' },
+            { nome: 'Gears of War', foto: 'gears-of-war.jpg', pontoAdicionar: 7, playerAdicionar: 'igor' },
+            { nome: 'Red Dead Redemption', foto: 'red-dead-redemption.jpg', pontoAdicionar: 6, playerAdicionar: 'hrone' },
         ]
     },
     {
