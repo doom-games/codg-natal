@@ -11,20 +11,6 @@ var players = [
 
 var rodadas = [
     {
-        numero: 6,
-        games: [
-            { nome: 'The King of Fighters', foto: 'kof.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-            { nome: 'Alan Wake', foto: 'alan-wake.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-            { nome: 'Street Fighter', foto: 'street-fighter.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-            { nome: 'Final Fantasy X', foto: 'final-fantasy-x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'hrone', playerRemover: 'camilo' },
-            { nome: 'Devil May Cry', foto: 'devil-may-cry.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-            { nome: 'Dead Space', foto: 'dead-space.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-            { nome: 'Chrono Trigger', foto: 'chrono-trigger.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'camilo' },
-            { nome: 'Beyond Good and Evil', foto: 'beyond-good-and-evil.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'camilo' },
-            { nome: 'Cyberpunk 2077', foto: 'cyberpunk-2077.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
-        ]
-    },
-    {
         numero: 5, // Ponto é definido pelo último dígito hora:minuto da resposta. Exemplo: 10:18 -> 8 pontos
         games: [
             { nome: 'Rayman', foto: 'rayman.jpg', pontoAdicionar: 5, playerAdicionar: 'ambrosio' },
@@ -92,6 +78,20 @@ var rodadas = [
             { nome: 'Animal Crossing', foto: 'animal-crossing.jpg', pontoAdicionar: 10, playerAdicionar: 'ambrosio' },
             { nome: 'Just Cause', foto: 'just-cause.jpg', pontoAdicionar: 5, playerAdicionar: 'marquinhos' },
             { nome: 'Death Stranding', foto: 'death-stranding.jpg', pontoAdicionar: 5, playerAdicionar: 'camilo' }
+        ]
+    },
+    {
+        numero: 6,
+        games: [
+            { nome: 'The King of Fighters', foto: 'kof.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
+            { nome: 'Alan Wake', foto: 'alan-wake.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
+            { nome: 'Street Fighter', foto: 'street-fighter.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
+            { nome: 'Final Fantasy X', foto: 'final-fantasy-x.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'hrone', playerRemover: 'camilo' },
+            { nome: 'Devil May Cry', foto: 'devil-may-cry.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
+            { nome: 'Dead Space', foto: 'dead-space.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
+            { nome: 'Chrono Trigger', foto: 'chrono-trigger.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'camilo' },
+            { nome: 'Beyond Good and Evil', foto: 'beyond-good-and-evil.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'ambrosio', playerRemover: 'camilo' },
+            { nome: 'Cyberpunk 2077', foto: 'cyberpunk-2077.jpg', pontoAdicionar: 5, pontoRemover: 5, playerAdicionar: 'camilo', playerRemover: 'ambrosio' },
         ]
     },
     {
